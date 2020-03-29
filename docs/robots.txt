@@ -1,1 +1,1 @@
-Sitemap: /docs/sitemap.xml
+Sitemap: /IKnowThings/sitemap.xml
